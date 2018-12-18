@@ -96,7 +96,7 @@ void traverse()
     else
     {
         int i;
-        printf("\ stack element is :\n ");
+        printf("\n stack element is :\n ");
         for(i=0; i<=top; i++)
         {
             printf("%d \n",stack[i]);
